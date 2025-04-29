@@ -1,0 +1,1 @@
+give @s minecraft:barrier[minecraft:equippable={camera_overlay:"direction/00",slot:"head"}]

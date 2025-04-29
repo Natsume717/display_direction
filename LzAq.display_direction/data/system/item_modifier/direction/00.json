@@ -1,0 +1,9 @@
+{
+    "function": "minecraft:set_components",
+    "components": {
+      "minecraft:equippable": {
+        "slot": "mainhand",
+        "camera_overlay": "minecraft:direction/00"
+      }
+    }
+  }

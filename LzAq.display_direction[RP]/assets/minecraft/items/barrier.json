@@ -1,0 +1,19 @@
+{
+    "model": {
+      "type": "select",
+      "property": "custom_model_data",
+      "fallback": {
+        "type": "model",
+        "model": "block/barrier"
+      },
+      "cases": [
+        {
+          "when": "equip_head",
+          "model": {
+            "type": "model",
+            "model": "block/empty"
+          }
+        }
+      ]
+    }
+  }

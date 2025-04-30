@@ -19,7 +19,7 @@ Minecraft Java Edition 1.21.5
 
 Hold a compass to display your direction.<br>
 You can obtain a special barrier block by executing ```/function system:main/give```.<br>
-You can also wear a barrier block on your head to activate the display.
+Wearing this block on your head also activates the display.
 
 
 # 注意《Disclaimer》

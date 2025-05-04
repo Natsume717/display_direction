@@ -6,6 +6,14 @@ This data pack displays the player's facing direction.
 ## 対応バージョン《Supported Version》
 Minecraft Java Edition 1.21.5
 
+## デモ《video》
+
+![動作デモ](assets/demo_movie.gif)
+
+高画質版はYoutubeにアップロードしています。
+
+[高画質版デモ動画はここをクリック](https://youtu.be/VflSOdkJmyo)
+
 ## 使い方《Usage》
 導入後、手にコンパスを持つだけで方角を示すHUDが表示されます。
 
